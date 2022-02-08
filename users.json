@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Nick",
+    "age": 19,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/User_icon-cp.svg/1200px-User_icon-cp.svg.png",
+    "gender":"male"
+  },
+    {
+    "name": "Kock",
+    "age": 20,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/User_icon-cp.svg/1200px-User_icon-cp.svg.png",
+    "gender":"male"
+  },
+    {
+    "name": "Lock",
+    "age": 21,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/User_icon-cp.svg/1200px-User_icon-cp.svg.png",
+    "gender":"famale"
+  },
+    {
+    "name": "Ni",
+    "age": 17,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/User_icon-cp.svg/1200px-User_icon-cp.svg.png",
+    "gender":"male"
+  },
+    {
+    "name": "Veck",
+    "age": 49,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/User_icon-cp.svg/1200px-User_icon-cp.svg.png",
+    "gender":"male"
+  },
+    {
+    "name": "Mdfick",
+    "age": 19,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/User_icon-cp.svg/1200px-User_icon-cp.svg.png",
+    "gender":"famale"
+  },
+]
