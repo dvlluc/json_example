@@ -1,4 +1,5 @@
-[
+{
+"users":[
   {
     "name": "Nick",
     "age": 19,
@@ -36,3 +37,4 @@
     "gender":"famale"
   },
 ]
+}
