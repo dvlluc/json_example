@@ -3,37 +3,43 @@
     {
       "name": "Nick",
       "age": 19,
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/User_icon-cp.svg/1200px-User_icon-cp.svg.png",
+      "img": "https://www.headshotsprague.com/wp-content/uploads/2019/07/Headshots_Prague-emotional-portrait-of-a-smiling-entrepreneur-1.jpg",
+      "gender": "male"
+    },
+    {
+      "name": "Lisa",
+      "age": 66,
+      "img": "https://ruralindiaonline.org/media/images/Hirabai_Fakira_Rathod_EV__P1040127.2e16d0ba.fill-512x512.jpg",
       "gender": "male"
     },
     {
       "name": "Kock",
       "age": 20,
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/User_icon-cp.svg/1200px-User_icon-cp.svg.png",
+      "img": "https://media.istockphoto.com/photos/close-up-portrait-of-young-smiling-handsome-man-in-blue-polo-shirt-picture-id1090878494?k=20&m=1090878494&s=170667a&w=0&h=3Jg_eW41W9Jw96NhUMgwckqpSMjfFm54lPSWXvPGgcc=",
       "gender": "male"
     },
     {
       "name": "Lock",
       "age": 21,
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/User_icon-cp.svg/1200px-User_icon-cp.svg.png",
-      "gender": "famale"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7hG87djH9a4buqcWDjYXahxHWTMSmUXTzvnGNNb4HfuytJPoqspIg4wNnbzZkyIOnJzI&usqp=CAU",
+      "gender": "male"
     },
     {
       "name": "Ni",
       "age": 17,
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/User_icon-cp.svg/1200px-User_icon-cp.svg.png",
-      "gender": "male"
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.freepik.com%2Fphotos%2Fsmile&psig=AOvVaw3PoIxhCMZL7Jz_5ojTrZvr&ust=1644382409563000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiekf6n7_UCFQAAAAAdAAAAABAR",
+      "gender": "famale"
     },
     {
       "name": "Veck",
       "age": 49,
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/User_icon-cp.svg/1200px-User_icon-cp.svg.png",
+      "img": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f9d8cc81441379.5cffc578528e0.jpg",
       "gender": "male"
     },
     {
       "name": "Mdfick",
       "age": 19,
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/User_icon-cp.svg/1200px-User_icon-cp.svg.png",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZxBHa32jzIJLsVUabWNtpVc2IZZRtUbu3IhY47lMbOkVomIZv4gF8mZMZzBWuc_O6VI&usqp=CAU",
       "gender": "famale"
     }
   ]
